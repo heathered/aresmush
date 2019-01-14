@@ -1,0 +1,17 @@
+server:
+    hostname: ruins.aresmush.com
+
+    port: 3000
+    
+    websocket_port: 4202
+
+    web_portal_port: 80
+    
+    engine_api_port: 4203
+
+    use_https: false
+
+    certificate_file_path: /etc/letsencrypt/live/ruins.aresmush.com/fullchain.pem
+
+    private_key_file_path: /etc/letsencrypt/live/ruins.aresmush.com/privkey.pem
+
