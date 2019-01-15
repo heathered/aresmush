@@ -39,5 +39,5 @@ killares
 # Game directory
 # -----------------------------
 #/game/
-game.yml
-server.yml
+game/config/game.yml
+game/config/server.yml
