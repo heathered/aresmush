@@ -1,5 +1,6 @@
 ---
 website:
+  allow_web_registration: false
   allow_html_in_markdown: true
   character_gallery_group: Faction
   character_gallery_subgroup: Position
